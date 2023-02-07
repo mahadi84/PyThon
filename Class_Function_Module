@@ -1,3 +1,6 @@
+
+
+
 class person:
  def __init__(self, name, age):
   self.name=name
@@ -78,3 +81,7 @@ mymodule.greeting("Jonathan")
 #Import only the person1
 from mymodule import person1
 print (person1["age"])
+
+
+
+
